@@ -81,6 +81,7 @@ This dashboard project is built to provide clear visibility into profitability a
 🔻 **Full Dashboard Preview**  
 *(Add your screenshot here and rename it if needed)*  
 ![Sales Dashboard Preview](Location.png)
+(Shipping.png)
 
 ---
 
